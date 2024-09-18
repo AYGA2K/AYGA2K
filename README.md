@@ -59,8 +59,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoubgarouat&show_icons=true&hide_border=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="ayoubgarouat stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgarouat&layout=compact&hide_border=true&theme=vue-dark" alt="ayoubgarouat top langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AYGA2K&show_icons=true&hide_border=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Ayoub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYGA2K&layout=compact&hide_border=true&theme=vue-dark" alt="Ayoub top langs" />
 </p>
 
 ---
