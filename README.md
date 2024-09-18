@@ -8,15 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Go, Vue.js, and Docker**
-- 💡 I love working on **Open Source Projects** and contributing to the developer community
-- 🔭 I’m exploring **cloud technologies** and **containerization** to build scalable applications
-- ⚡ Fun fact: I’m a fan of anime and enjoy watching **drama romance movies**
-
----
-
 ### 🛠️ My Tech Stack
 
 - **Languages**:  
@@ -24,27 +15,36 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 - **Frontend**:  
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
   
 - **Backend**:  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Echo](https://img.shields.io/badge/-Echo-4DB33D?style=flat-square&logo=go&logoColor=white)
+  ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Fiber](https://img.shields.io/badge/-Fiber-28A745?style=flat-square&logo=fiber&logoColor=white)
+
 
 - **Databases**:  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-  
 - **Operating Systems**:  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+  ![Hyprland](https://img.shields.io/badge/-Hyprland-5271FF?style=flat-square&logo=hyprland&logoColor=white)
 
 ---
 
