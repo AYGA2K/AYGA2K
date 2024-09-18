@@ -30,7 +30,7 @@
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
   ![Echo](https://img.shields.io/badge/-Echo-4DB33D?style=flat-square&logo=go&logoColor=white)
   ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-  ![Fiber](https://img.shields.io/badge/-Fiber-057bff?style=flat-square&logo=fiber&logoColor=white)
+  ![Fiber](https://img.shields.io/badge/-Fiber-057bff?style=flat-square&logo=go&logoColor=white)
 
 
 - **Databases**:  
