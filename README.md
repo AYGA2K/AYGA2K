@@ -52,6 +52,7 @@
 ### 📫 How to Reach Me
 
 <p align="left">
+  <a href="mailto:garouatayoub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ayoub Garouat Gmail" /></a>
   <a href="https://www.linkedin.com/in/ayoub-garouat-aa7a601ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ayoub Garouat LinkedIn" /></a>
 </p>
 
