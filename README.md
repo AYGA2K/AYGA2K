@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer who loves coding, problem-solving, and exploring new technologies</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AYGA2K&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubgarouat" />
   <img src="https://img.shields.io/github/followers/AYGA2K?label=Followers" alt="followers" />
 </p>
 
