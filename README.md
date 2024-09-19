@@ -1,10 +1,6 @@
 <h1 align="center">Hello, I'm Ayoub GAROUAT 👋</h1>
 <h3 align="center">A passionate developer who loves coding, problem-solving, and exploring new technologies.</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AYGA2K?label=Followers" alt="followers" />
-</p>
-
 ---
 
 ### 🛠️ My Tech Stack
