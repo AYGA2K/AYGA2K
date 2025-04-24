@@ -65,9 +65,3 @@
 </p>
 
 ---
-
-### 🔥 My GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYGA2K&theme=vue-dark&hide_border=true" alt="Ayoub streak" />
-</p>
