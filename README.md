@@ -49,8 +49,6 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYGA2K&layout=compact&theme=radical&langs_count=8)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=AYGA2K&theme=radical)
-  
 </div>
 
 ---
