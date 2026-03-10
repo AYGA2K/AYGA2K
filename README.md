@@ -6,11 +6,3 @@
 <p align="center">
   <b>Software Developer | Problem Solver | Tech Explorer</b>
 </p>
-
-<p align="center">
-  <img
-    align="center"
-    src="https://readme-stats.github.io/readme-stats/api/top-langs/?username=AYGA2K&layout=compact&theme=dark"
-    alt="Most Used Languages"
-  />
-</p>
