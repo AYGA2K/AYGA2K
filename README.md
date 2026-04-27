@@ -21,18 +21,3 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYGA2K&show_icons=true&theme=dark&hide=contribs,issues" alt="GitHub Stats" />
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com/AYGA2K">
-    <img src="https://img.shields.io/badge/GitHub-@AYGA2K-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-</p>
